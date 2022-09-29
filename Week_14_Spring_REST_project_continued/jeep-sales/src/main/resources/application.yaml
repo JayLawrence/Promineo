@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password: INSERT PASSWORD HERE
+    username: INSERT USERNAME HERE
+    url: jdbc:mysql://localhost:3306/jeep
